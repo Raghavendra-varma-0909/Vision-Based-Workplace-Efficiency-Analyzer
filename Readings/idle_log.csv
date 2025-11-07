@@ -1,0 +1,2 @@
+employee_id,date,start_time,end_time,idle_seconds,notes
+E001,2025-11-07,2025-11-07T15:50:57.762927,2025-11-07T15:51:27.786084,30.02,auto-detected threshold=30s
